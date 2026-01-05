@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-  src="./assets/foto-perfil-fran.jpg" 
+  src="./assets/foto-perfil-fran-modified.jpg" 
   width="150" 
   style="border-radius: 50%;" 
   alt="Franco Benko" 

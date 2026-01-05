@@ -1,7 +1,7 @@
 <div align="center">
   <img 
-  src="./assets/foto-perfil-fran-modified.jpg" 
-  width="180"
+  src="./assets/foto-perfil-fran-2.jpg" 
+  width="150"
   alt="Franco Benko" 
 />
   <h1>Franco Benko</h1>
@@ -19,7 +19,7 @@
     <a href="LINK_TO_YOUR_PORTFOLIO">
       <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="mailto:YOUR_EMAIL">
+    <a href="mailto:fran.benko@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
@@ -82,14 +82,4 @@
   <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cloud" />
 
 </div>
-
-<br />
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=9f9f9f&icon_color=0077B5" alt="Franco's Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=9f9f9f" alt="Top Languages" />
-  </a>
 </div>

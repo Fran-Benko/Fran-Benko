@@ -1,8 +1,7 @@
 <div align="center">
   <img 
   src="./assets/foto-perfil-fran-modified.jpg" 
-  width="150" 
-  style="border-radius: 50%;" 
+  width="150"
   alt="Franco Benko" 
 />
   <h1>Franco Benko</h1>

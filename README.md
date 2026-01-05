@@ -1,10 +1,4 @@
 <div align="center">
-  <img 
-  src="./assets/foto-perfil-fran-2.jpg" 
-  width="150"
-  alt="Franco Benko" 
-/>
-  <h1>Franco Benko</h1>
   <h3>AI Engineer | Data Scientist</h3>
   <p>
     <em>"Transforming information into actionable insights and innovative solutions."</em>
@@ -32,7 +26,7 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🇬🇧 English</h3>
+      <h3>English</h3>
       <ul>
         <li>🔭 <strong>Focus:</strong> Solving complex problems through Data Analysis, ML, and Cloud Technologies.</li>
         <li>💡 <strong>Mindset:</strong> I prioritize client needs and foster effective communication in collaborative/remote environments.</li>
@@ -41,7 +35,7 @@
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>🇪🇸 Español</h3>
+      <h3>Español</h3>
       <ul>
         <li>🔭 <strong>Enfoque:</strong> Resolución de problemas complejos mediante Análisis de Datos, ML y Tecnologías Cloud.</li>
         <li>💡 <strong>Mentalidad:</strong> Priorizo las necesidades del cliente y fomento la comunicación efectiva en entornos colaborativos/remotos.</li>

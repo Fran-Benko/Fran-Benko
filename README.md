@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30" />
+  <img 
+  src="./assets/foto-perfil-fran.jpg" 
+  width="150" 
+  style="border-radius: 50%;" 
+  alt="Franco Benko" 
+/>
   <h1>Franco Benko</h1>
   <h3>AI Engineer | Data Scientist</h3>
   <p>
@@ -9,7 +14,7 @@
   </p>
 
   <p>
-    <a href="LINK_TO_YOUR_LINKEDIN">
+    <a href="https://www.linkedin.com/in/franco-benko/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="LINK_TO_YOUR_PORTFOLIO">
